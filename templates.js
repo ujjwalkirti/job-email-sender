@@ -138,13 +138,18 @@ const template_collections = {
                     </p>
 
                     <p>
-                      Recently, I’ve been working as a DevOps Engineer at a startup where I:
+                      Recently, I’ve been working as a <strong>DevOps Engineer</strong> at a fast-paced startup where I was solely responsible for designing and implementing the entire DevOps infrastructure from the ground up — despite having no formal background in the field. I taught myself every concept, tool, and best practice by doing, failing, and iterating.
                     </p>
                     <ul>
-                      <li>Designed and built REST APIs using <strong>Express.js</strong> and <strong>PostgreSQL</strong>.</li>
-                      <li>Set up a deployment pipeline using <strong>Docker</strong>, <strong>Nginx</strong>, and <strong>GitHub Actions</strong> on a bare-metal server.</li>
-                      <li>Reduced infrastructure costs and improved system uptime to <strong>99.9%</strong>.</li>
+                      <li>Built production and development environments from scratch, provisioning a <strong>bare-metal server</strong> with <strong>Docker</strong>, <strong>Nginx</strong>, and hardened static IP configurations.</li>
+                      <li>Set up fully automated CI/CD pipelines using <strong>GitHub Actions</strong> that enabled seamless and reliable deployments with rollback safety.</li>
+                      <li>Achieved <strong>99.9% uptime</strong> and reduced infrastructure costs significantly through optimization and continuous monitoring.</li>
+                      <li>Streamlined development workflows and onboarded new developers with zero downtime, improving team velocity and reducing errors.</li>
                     </ul>
+
+                    <p>
+                      Before this, I worked at an immigration-tech company as a <strong>Full Stack Developer</strong> where I consistently went above and beyond. I architected a hybrid multi-cloud deployment strategy, delivered complex features end-to-end, and even built a Chrome extension to automate internal operations. My managers trusted me with core responsibilities early on because of my ability to learn fast, deliver reliably, and take ownership.
+                    </p>
 
                     <p>
                       What makes me different? I’ve learned everything from the ground up — no bootcamps, no paid courses — just curiosity and relentless effort. I’ve built and deployed full-stack projects on my own, and I’m deeply passionate about scaling, automation, and reliability.
@@ -164,7 +169,8 @@ const template_collections = {
                       <strong>Ujjwal Kirti</strong><br>
                       📞 +91-7909076540<br>
                       📧 <a href="mailto:ujjwalkirti2000@gmail.com">ujjwalkirti2000@gmail.com</a><br>
-                      🔗 <a href="https://ujjwalkirti.in">Portfolio / GitHub</a>
+                      🔗 <a href="https://ujjwalkirti.in">Portfolio</a><br/>
+                      <a href="https://github.com/ujjwalkirti">GitHub</a>
                     </p>
 
                     <div class="footer">
