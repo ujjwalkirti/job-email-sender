@@ -4,22 +4,22 @@ require("dotenv").config();
 const prompt = require("prompt-sync")({ sigint: true });
 
 const transporter = nodemailer.createTransport({
-    service: "gmail",
-    auth: {
-        user: process.env.EMAIL_USERNAME,
-        pass: process.env.PASSWORD,
-    },
+  service: "gmail",
+  auth: {
+    user: process.env.EMAIL_USERNAME,
+    pass: process.env.PASSWORD,
+  },
 });
 
 const availableChoices = ["soloFullStackDeveloper", "blogOwner", "companies", "ycStartups"];
 
 const choice =
   availableChoices[
-    parseInt(
-      prompt(
-        "Select your choice:\n 1. full stack developer\n 2. Blog owner\n 3. Small-medium Sized companies \n 4. YC backed startups"
-      )
-    ) - 1
+  parseInt(
+    prompt(
+      "Select your choice:\n 1. full stack developer\n 2. Blog owner\n 3. Small-medium Sized companies \n 4. YC backed startups"
+    )
+  ) - 1
   ];
 
 const receiver_email = prompt("Enter the receiver's email: ");
