@@ -40,7 +40,7 @@ function sendMail() {
 
     html: template.generateHTML(receiver_name),
   };
-
+  console.log('Sending Email!!!')
   transporter.sendMail(mailConfigurations, function (error, info) {
     if (error) throw Error(error);
     console.log("Email Sent Successfully");
