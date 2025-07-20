@@ -10,6 +10,10 @@ const template_collections = {
                 </p>
 
                 <p>
+                Coding and building products from the ground up is not just a career path—it's my obsession. Honestly, you might call me lame or a nerd, but I genuinely spend most of my weekends exploring new tech, building side projects, and tinkering with ideas just for the fun of it.
+                </p>
+
+                <p>
                 One of my notable projects was for a local sporting event, where I
                 conceptualized, designed, and led the development of a server-side
                 rendered web application using Next.js and Tailwind CSS.<br/> The application
@@ -46,6 +50,9 @@ const template_collections = {
     generateHTML: (receiverName) => {
       return `<p>Dear ${receiverName},</p>
                 <p>Hello! I am Ujjwal Kirti, a software developer from India, currently expanding my skills into React Native development.</p>
+
+                <p>Coding and building from scratch is more than a profession to me—it's a hobby and obsession. You might call me a nerd, but I genuinely enjoy spending my weekends building side projects, diving into new frameworks, and experimenting with technologies just for the thrill of it.</p>
+
                 <p>I've been an avid reader of your content and am impressed by the value you provide to your audience. I am reaching out to offer my web development skills to enhance the user experience on your platform.</p>
                 <p>One of my key projects involved developing a server-side rendered web application for a local sporting event using Next.js and Tailwind CSS.<br/> The application successfully handled high traffic and facilitated real-time updates of match statistics, player and team stats, and other game data. This project not only attracted significant sponsorships but also increased the event's exposure through effective SEO techniques.</p>
                 <p>I've completed the web development bootcamp by Colt Steele from Udemy and am keen on building scalable systems using the latest technologies. I believe my technical skills could contribute to the growth and success of your website or blog.</p>
@@ -97,6 +104,10 @@ const template_collections = {
 
                     <p>
                       I hope this message finds you well. My name is <strong>Ujjwal Kirti</strong>, and I’m a passionate Full Stack Developer with hands-on experience delivering high-impact, scalable solutions for fast-growing companies.
+                    </p>
+
+                    <p>
+                      For me, building products from scratch is more than just a job—it's what I genuinely love doing. I often spend my weekends coding, experimenting with side projects, and diving into new tech stacks just for fun. It might sound a bit nerdy, but it keeps me sharp and inspired.
                     </p>
 
                     <p>
@@ -187,6 +198,10 @@ const template_collections = {
 
                     <p>
                       I hope this message finds you well. My name is <strong>Ujjwal Kirti</strong>, and I’m reaching out with a sincere request and strong motivation. I am a self-taught full-stack developer and budding DevOps engineer, deeply committed to growing into an exceptional professional in the DevOps domain.
+                    </p>
+
+                    <p>
+                      Honestly, building products from the ground up is both my hobby and obsession. You could call me a nerd, but I genuinely love spending weekends experimenting with side projects, learning new stacks, and getting my hands dirty with tech.
                     </p>
 
                     <p>
