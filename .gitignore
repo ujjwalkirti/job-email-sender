@@ -3,3 +3,11 @@
 node_modules
 
 *.class
+
+.venv
+
+*.ltx
+
+*.txt
+
+.vscode

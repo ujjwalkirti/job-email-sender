@@ -23,6 +23,7 @@ now either replace/ modify my current base resume to contain all the keywords a 
 
 Strict guidelines:
 - Only generate the latex so i can directly use it to generate resume pdf.
+- dont add things like ```latex to the latex.
 """
 client = Perplexity()
 
