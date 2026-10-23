@@ -1,0 +1,22 @@
+{
+  "sendWindow": {
+    "dayOfWeek": 3,
+    "startHour": 9,
+    "endHour": 11
+  },
+  "cadence": {
+    "followup1Days": 4,
+    "followup2Days": 9
+  },
+  "constraints": {
+    "minWords": 90,
+    "maxWords": 120,
+    "minSubjectChars": 36,
+    "maxSubjectChars": 50,
+    "maxEmployees": 29,
+    "minFundedMonths": 2,
+    "maxFundedMonths": 9
+  },
+  "jitterMsMin": 180000,
+  "jitterMsMax": 360000
+}

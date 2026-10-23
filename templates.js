@@ -1,4 +1,4 @@
-const template_collections = {
+export const template_collections = {
   soloFullStackDeveloper: {
     subject: "Exploring Collaborative Opportunities in Full Stack Development",
     generateHTML: (receiverName) => {
@@ -250,4 +250,4 @@ const template_collections = {
   }
 };
 
-module.exports = { template_collections };
+export default { template_collections };

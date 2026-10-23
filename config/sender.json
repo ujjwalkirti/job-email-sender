@@ -1,0 +1,16 @@
+{
+  "senderName": "Ujjwal Kirti",
+  "senderEmail": "ujjwalkirti@gmail.com",
+  "timezone": "Asia/Kolkata",
+  "portfolioUrl": "https://ujjwal-portfolio-flame.vercel.app/",
+  "githubUrl": "https://github.com/ujjwalkirti",
+  "linkedinUrl": "https://www.linkedin.com/in/ujjwal-kirti-562b922a0/",
+  "targetRoles": [
+    "Backend / Distributed Systems Engineer",
+    "AI / ML Engineer"
+  ],
+  "coreStrengths": [
+    "High-throughput backend architectures (Node.js/Go/Python, PostgreSQL, Redis)",
+    "Production AI/LLM pipelines and agentic systems"
+  ]
+}

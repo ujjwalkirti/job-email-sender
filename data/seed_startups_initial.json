@@ -1,0 +1,780 @@
+{
+  "updatedAt": "2026-10-23T11:00:00.000Z",
+  "startups": [
+    {
+      "id": "startup_karya_ai",
+      "name": "Karya AI",
+      "website": "https://karya.in",
+      "fundingRound": "Seed",
+      "roundAmount": "$2.5M",
+      "fundedDate": "2026-05-12",
+      "fundedMonthsAgo": 5,
+      "employeeCount": 18,
+      "productDescription": "Decentralized AI data collection and ethical workforce platform",
+      "source": "Entrackr",
+      "timezone": "Asia/Kolkata",
+      "contacts": [
+        {
+          "id": "c_karya_1",
+          "name": "Manu Chopra",
+          "role": "Founder",
+          "email": "manu@karya.in",
+          "status": "QUEUED",
+          "history": []
+        },
+        {
+          "id": "c_karya_2",
+          "name": "Vivek Seshadri",
+          "role": "TechLead",
+          "email": "vivek@karya.in",
+          "status": "QUEUED",
+          "history": []
+        }
+      ]
+    },
+    {
+      "id": "startup_sarvam_ai",
+      "name": "Sarvam AI",
+      "website": "https://sarvam.ai",
+      "fundingRound": "Seed",
+      "roundAmount": "$3.0M",
+      "fundedDate": "2026-04-18",
+      "fundedMonthsAgo": 6,
+      "employeeCount": 24,
+      "productDescription": "Full-stack generative AI foundation models optimized for Indian languages",
+      "source": "Inc42",
+      "timezone": "Asia/Kolkata",
+      "contacts": [
+        {
+          "id": "c_sarvam_1",
+          "name": "Vivek Raghavan",
+          "role": "Founder",
+          "email": "vivek@sarvam.ai",
+          "status": "QUEUED",
+          "history": []
+        },
+        {
+          "id": "c_sarvam_2",
+          "name": "Pratyush Kumar",
+          "role": "TechLead",
+          "email": "pratyush@sarvam.ai",
+          "status": "QUEUED",
+          "history": []
+        }
+      ]
+    },
+    {
+      "id": "startup_hyperverge",
+      "name": "HyperVerge Core",
+      "website": "https://hyperverge.co",
+      "fundingRound": "Seed",
+      "roundAmount": "$1.8M",
+      "fundedDate": "2026-03-10",
+      "fundedMonthsAgo": 7,
+      "employeeCount": 22,
+      "productDescription": "High-throughput computer vision and distributed identity verification engines",
+      "source": "Entrackr",
+      "timezone": "Asia/Kolkata",
+      "contacts": [
+        {
+          "id": "c_hyperverge_1",
+          "name": "Kedar Kulkarni",
+          "role": "Founder",
+          "email": "kedar@hyperverge.co",
+          "status": "QUEUED",
+          "history": []
+        },
+        {
+          "id": "c_hyperverge_2",
+          "name": "Vignesh Krishnakumar",
+          "role": "TechLead",
+          "email": "vignesh@hyperverge.co",
+          "status": "QUEUED",
+          "history": []
+        }
+      ]
+    },
+    {
+      "id": "startup_devzero",
+      "name": "DevZero",
+      "website": "https://devzero.io",
+      "fundingRound": "Seed",
+      "roundAmount": "$2.2M",
+      "fundedDate": "2026-06-05",
+      "fundedMonthsAgo": 5,
+      "employeeCount": 16,
+      "productDescription": "Containerized developer environments with instant code sync and orchestration",
+      "source": "Wellfound",
+      "timezone": "America/Los_Angeles",
+      "contacts": [
+        {
+          "id": "c_devzero_1",
+          "name": "Debo Ray",
+          "role": "Founder",
+          "email": "debo@devzero.io",
+          "status": "QUEUED",
+          "history": []
+        },
+        {
+          "id": "c_devzero_2",
+          "name": "Colin Higgins",
+          "role": "TechLead",
+          "email": "colin@devzero.io",
+          "status": "QUEUED",
+          "history": []
+        }
+      ]
+    },
+    {
+      "id": "startup_tensorfuse",
+      "name": "Tensorfuse",
+      "website": "https://tensorfuse.ai",
+      "fundingRound": "Seed",
+      "roundAmount": "$1.4M",
+      "fundedDate": "2026-07-14",
+      "fundedMonthsAgo": 3,
+      "employeeCount": 12,
+      "productDescription": "Low-latency serverless GPU infrastructure for deploying open-weight LLMs",
+      "source": "Entrackr",
+      "timezone": "Asia/Kolkata",
+      "contacts": [
+        {
+          "id": "c_tensorfuse_1",
+          "name": "Harsh Singhal",
+          "role": "Founder",
+          "email": "harsh@tensorfuse.ai",
+          "status": "QUEUED",
+          "history": []
+        },
+        {
+          "id": "c_tensorfuse_2",
+          "name": "Rohit Nair",
+          "role": "TechLead",
+          "email": "rohit@tensorfuse.ai",
+          "status": "QUEUED",
+          "history": []
+        }
+      ]
+    },
+    {
+      "id": "startup_portkey_ai",
+      "name": "Portkey AI",
+      "website": "https://portkey.ai",
+      "fundingRound": "Seed",
+      "roundAmount": "$3.0M",
+      "fundedDate": "2026-05-20",
+      "fundedMonthsAgo": 5,
+      "employeeCount": 19,
+      "productDescription": "AI gateway for fallbacks, load balancing, and logging LLM API traffic",
+      "source": "Inc42",
+      "timezone": "Asia/Kolkata",
+      "contacts": [
+        {
+          "id": "c_portkey_1",
+          "name": "Rohit Agarwal",
+          "role": "Founder",
+          "email": "rohit@portkey.ai",
+          "status": "QUEUED",
+          "history": []
+        },
+        {
+          "id": "c_portkey_2",
+          "name": "Ayush Garg",
+          "role": "TechLead",
+          "email": "ayush@portkey.ai",
+          "status": "QUEUED",
+          "history": []
+        }
+      ]
+    },
+    {
+      "id": "startup_baseten",
+      "name": "Baseten Engine",
+      "website": "https://baseten.co",
+      "fundingRound": "Seed",
+      "roundAmount": "$2.8M",
+      "fundedDate": "2026-02-15",
+      "fundedMonthsAgo": 8,
+      "employeeCount": 26,
+      "productDescription": "High-performance inference engine with custom model runtimes and cold-start optimization",
+      "source": "Wellfound",
+      "timezone": "America/New_York",
+      "contacts": [
+        {
+          "id": "c_baseten_1",
+          "name": "Tuhin Srivastava",
+          "role": "Founder",
+          "email": "tuhin@baseten.co",
+          "status": "QUEUED",
+          "history": []
+        },
+        {
+          "id": "c_baseten_2",
+          "name": "Amir Houieh",
+          "role": "TechLead",
+          "email": "amir@baseten.co",
+          "status": "QUEUED",
+          "history": []
+        }
+      ]
+    },
+    {
+      "id": "startup_composio",
+      "name": "Composio",
+      "website": "https://composio.dev",
+      "fundingRound": "Seed",
+      "roundAmount": "$1.9M",
+      "fundedDate": "2026-06-18",
+      "fundedMonthsAgo": 4,
+      "employeeCount": 14,
+      "productDescription": "Production-grade tool calling and authentication layer for agentic LLMs",
+      "source": "Entrackr",
+      "timezone": "Asia/Kolkata",
+      "contacts": [
+        {
+          "id": "c_composio_1",
+          "name": "Soham Ganatra",
+          "role": "Founder",
+          "email": "soham@composio.dev",
+          "status": "QUEUED",
+          "history": []
+        },
+        {
+          "id": "c_composio_2",
+          "name": "Karan Vaidya",
+          "role": "TechLead",
+          "email": "karan@composio.dev",
+          "status": "QUEUED",
+          "history": []
+        }
+      ]
+    },
+    {
+      "id": "startup_qdrant",
+      "name": "Qdrant Cloud",
+      "website": "https://qdrant.tech",
+      "fundingRound": "Seed",
+      "roundAmount": "$2.0M",
+      "fundedDate": "2026-03-22",
+      "fundedMonthsAgo": 7,
+      "employeeCount": 25,
+      "productDescription": "Vector search engine written in Rust with distributed clustering and payload filtering",
+      "source": "Wellfound",
+      "timezone": "Europe/London",
+      "contacts": [
+        {
+          "id": "c_qdrant_1",
+          "name": "Andre Zayarni",
+          "role": "Founder",
+          "email": "andre@qdrant.tech",
+          "status": "QUEUED",
+          "history": []
+        },
+        {
+          "id": "c_qdrant_2",
+          "name": "Andrey Vasnetsov",
+          "role": "TechLead",
+          "email": "vasnetsov@qdrant.tech",
+          "status": "QUEUED",
+          "history": []
+        }
+      ]
+    },
+    {
+      "id": "startup_axiom",
+      "name": "Axiom Cloud",
+      "website": "https://axiom.co",
+      "fundingRound": "Seed",
+      "roundAmount": "$2.7M",
+      "fundedDate": "2026-04-05",
+      "fundedMonthsAgo": 7,
+      "employeeCount": 21,
+      "productDescription": "Hyper-efficient streaming log storage and distributed query engine",
+      "source": "Wellfound",
+      "timezone": "Europe/London",
+      "contacts": [
+        {
+          "id": "c_axiom_1",
+          "name": "Neil Rahilly",
+          "role": "Founder",
+          "email": "neil@axiom.co",
+          "status": "QUEUED",
+          "history": []
+        },
+        {
+          "id": "c_axiom_2",
+          "name": "Seif Lotfy",
+          "role": "TechLead",
+          "email": "seif@axiom.co",
+          "status": "QUEUED",
+          "history": []
+        }
+      ]
+    },
+    {
+      "id": "startup_dopt",
+      "name": "Dopt",
+      "website": "https://dopt.com",
+      "fundingRound": "Seed",
+      "roundAmount": "$1.7M",
+      "fundedDate": "2026-05-30",
+      "fundedMonthsAgo": 5,
+      "employeeCount": 15,
+      "productDescription": "Component SDK and backend state machine for dynamic user onboarding flows",
+      "source": "Wellfound",
+      "timezone": "America/Los_Angeles",
+      "contacts": [
+        {
+          "id": "c_dopt_1",
+          "name": "Alok Bhat",
+          "role": "Founder",
+          "email": "alok@dopt.com",
+          "status": "QUEUED",
+          "history": []
+        },
+        {
+          "id": "c_dopt_2",
+          "name": "Joe Johnston",
+          "role": "TechLead",
+          "email": "joe@dopt.com",
+          "status": "QUEUED",
+          "history": []
+        }
+      ]
+    },
+    {
+      "id": "startup_inkeep",
+      "name": "Inkeep",
+      "website": "https://inkeep.com",
+      "fundingRound": "Seed",
+      "roundAmount": "$1.6M",
+      "fundedDate": "2026-07-02",
+      "fundedMonthsAgo": 4,
+      "employeeCount": 13,
+      "productDescription": "RAG infrastructure and embedded chat widgets tailored for developer documentation",
+      "source": "Inc42",
+      "timezone": "America/New_York",
+      "contacts": [
+        {
+          "id": "c_inkeep_1",
+          "name": "Nick Gomez",
+          "role": "Founder",
+          "email": "nick@inkeep.com",
+          "status": "QUEUED",
+          "history": []
+        },
+        {
+          "id": "c_inkeep_2",
+          "name": "Alex Chen",
+          "role": "TechLead",
+          "email": "alex@inkeep.com",
+          "status": "QUEUED",
+          "history": []
+        }
+      ]
+    },
+    {
+      "id": "startup_metronome",
+      "name": "Metronome Systems",
+      "website": "https://metronome.com",
+      "fundingRound": "Seed",
+      "roundAmount": "$2.4M",
+      "fundedDate": "2026-03-01",
+      "fundedMonthsAgo": 8,
+      "employeeCount": 27,
+      "productDescription": "High-throughput financial ledger and event aggregation pipeline for usage billing",
+      "source": "Wellfound",
+      "timezone": "America/Los_Angeles",
+      "contacts": [
+        {
+          "id": "c_metronome_1",
+          "name": "Scott Beechuk",
+          "role": "Founder",
+          "email": "scott@metronome.com",
+          "status": "QUEUED",
+          "history": []
+        },
+        {
+          "id": "c_metronome_2",
+          "name": "Kevin Liu",
+          "role": "TechLead",
+          "email": "kevin@metronome.com",
+          "status": "QUEUED",
+          "history": []
+        }
+      ]
+    },
+    {
+      "id": "startup_speakeasy",
+      "name": "Speakeasy API",
+      "website": "https://speakeasyapi.dev",
+      "fundingRound": "Seed",
+      "roundAmount": "$2.1M",
+      "fundedDate": "2026-06-25",
+      "fundedMonthsAgo": 4,
+      "employeeCount": 17,
+      "productDescription": "Compiler and pipelines generating idiomatic, type-safe SDKs from OpenAPI specifications",
+      "source": "Wellfound",
+      "timezone": "America/Los_Angeles",
+      "contacts": [
+        {
+          "id": "c_speakeasy_1",
+          "name": "Sagun Gaur",
+          "role": "Founder",
+          "email": "sagun@speakeasyapi.dev",
+          "status": "QUEUED",
+          "history": []
+        },
+        {
+          "id": "c_speakeasy_2",
+          "name": "Simon King",
+          "role": "TechLead",
+          "email": "simon@speakeasyapi.dev",
+          "status": "QUEUED",
+          "history": []
+        }
+      ]
+    },
+    {
+      "id": "startup_attio",
+      "name": "Attio Cloud",
+      "website": "https://attio.com",
+      "fundingRound": "Seed",
+      "roundAmount": "$2.5M",
+      "fundedDate": "2026-02-28",
+      "fundedMonthsAgo": 8,
+      "employeeCount": 28,
+      "productDescription": "Reactive CRM built on an in-memory data sync engine and flexible relational schemas",
+      "source": "Wellfound",
+      "timezone": "Europe/London",
+      "contacts": [
+        {
+          "id": "c_attio_1",
+          "name": "Nicolas Sharp",
+          "role": "Founder",
+          "email": "nicolas@attio.com",
+          "status": "QUEUED",
+          "history": []
+        },
+        {
+          "id": "c_attio_2",
+          "name": "Alexander Christie",
+          "role": "TechLead",
+          "email": "alexander@attio.com",
+          "status": "QUEUED",
+          "history": []
+        }
+      ]
+    },
+    {
+      "id": "startup_letta",
+      "name": "MemGPT / Letta",
+      "website": "https://letta.com",
+      "fundingRound": "Seed",
+      "roundAmount": "$2.3M",
+      "fundedDate": "2026-04-22",
+      "fundedMonthsAgo": 6,
+      "employeeCount": 16,
+      "productDescription": "Virtual memory architecture for long-term stateful agentic workflows",
+      "source": "Wellfound",
+      "timezone": "America/Los_Angeles",
+      "contacts": [
+        {
+          "id": "c_letta_1",
+          "name": "Charles Packer",
+          "role": "Founder",
+          "email": "charles@letta.com",
+          "status": "QUEUED",
+          "history": []
+        },
+        {
+          "id": "c_letta_2",
+          "name": "Sarah Wooders",
+          "role": "TechLead",
+          "email": "sarah@letta.com",
+          "status": "QUEUED",
+          "history": []
+        }
+      ]
+    },
+    {
+      "id": "startup_refraction",
+      "name": "Refraction AI",
+      "website": "https://refraction.dev",
+      "fundingRound": "Seed",
+      "roundAmount": "$1.5M",
+      "fundedDate": "2026-07-28",
+      "fundedMonthsAgo": 3,
+      "employeeCount": 11,
+      "productDescription": "AST-guided code transformations and test generation pipelines",
+      "source": "Entrackr",
+      "timezone": "Asia/Kolkata",
+      "contacts": [
+        {
+          "id": "c_refraction_1",
+          "name": "Aditya Joshi",
+          "role": "Founder",
+          "email": "aditya@refraction.dev",
+          "status": "QUEUED",
+          "history": []
+        },
+        {
+          "id": "c_refraction_2",
+          "name": "Siddharth Rao",
+          "role": "TechLead",
+          "email": "siddharth@refraction.dev",
+          "status": "QUEUED",
+          "history": []
+        }
+      ]
+    },
+    {
+      "id": "startup_unkey",
+      "name": "Unkey Dev",
+      "website": "https://unkey.dev",
+      "fundingRound": "Seed",
+      "roundAmount": "$1.2M",
+      "fundedDate": "2026-08-10",
+      "fundedMonthsAgo": 2,
+      "employeeCount": 9,
+      "productDescription": "Globally distributed API authentication and rate-limiting infrastructure",
+      "source": "Wellfound",
+      "timezone": "Europe/London",
+      "contacts": [
+        {
+          "id": "c_unkey_1",
+          "name": "James Perkins",
+          "role": "Founder",
+          "email": "james@unkey.dev",
+          "status": "QUEUED",
+          "history": []
+        },
+        {
+          "id": "c_unkey_2",
+          "name": "Andreas Thomas",
+          "role": "TechLead",
+          "email": "andreas@unkey.dev",
+          "status": "QUEUED",
+          "history": []
+        }
+      ]
+    },
+    {
+      "id": "startup_promptfoo",
+      "name": "Promptfoo",
+      "website": "https://promptfoo.dev",
+      "fundingRound": "Seed",
+      "roundAmount": "$1.8M",
+      "fundedDate": "2026-05-15",
+      "fundedMonthsAgo": 5,
+      "employeeCount": 14,
+      "productDescription": "CI/CD testing framework and automated red-teaming tool for generative AI systems",
+      "source": "Wellfound",
+      "timezone": "America/Los_Angeles",
+      "contacts": [
+        {
+          "id": "c_promptfoo_1",
+          "name": "Ian Webster",
+          "role": "Founder",
+          "email": "ian@promptfoo.dev",
+          "status": "QUEUED",
+          "history": []
+        },
+        {
+          "id": "c_promptfoo_2",
+          "name": "Michael Vance",
+          "role": "TechLead",
+          "email": "michael@promptfoo.dev",
+          "status": "QUEUED",
+          "history": []
+        }
+      ]
+    },
+    {
+      "id": "startup_laminar",
+      "name": "Laminar Flow",
+      "website": "https://lmnr.ai",
+      "fundingRound": "Seed",
+      "roundAmount": "$1.3M",
+      "fundedDate": "2026-07-20",
+      "fundedMonthsAgo": 3,
+      "employeeCount": 10,
+      "productDescription": "Distributed tracing and evaluation engine for complex LLM pipelines",
+      "source": "Wellfound",
+      "timezone": "Europe/London",
+      "contacts": [
+        {
+          "id": "c_laminar_1",
+          "name": "Robert Krajewski",
+          "role": "Founder",
+          "email": "robert@lmnr.ai",
+          "status": "QUEUED",
+          "history": []
+        },
+        {
+          "id": "c_laminar_2",
+          "name": "Dinmukhamed Mailibay",
+          "role": "TechLead",
+          "email": "din@lmnr.ai",
+          "status": "QUEUED",
+          "history": []
+        }
+      ]
+    },
+    {
+      "id": "startup_truefoundry",
+      "name": "TrueFoundry",
+      "website": "https://truefoundry.com",
+      "fundingRound": "Seed",
+      "roundAmount": "$2.9M",
+      "fundedDate": "2026-03-15",
+      "fundedMonthsAgo": 7,
+      "employeeCount": 26,
+      "productDescription": "Kubernetes orchestration layer for deploying microservices and machine learning models",
+      "source": "Entrackr",
+      "timezone": "Asia/Kolkata",
+      "contacts": [
+        {
+          "id": "c_truefoundry_1",
+          "name": "Abhishek Choudhary",
+          "role": "Founder",
+          "email": "abhishek@truefoundry.com",
+          "status": "QUEUED",
+          "history": []
+        },
+        {
+          "id": "c_truefoundry_2",
+          "name": "Nikunj Bajaj",
+          "role": "TechLead",
+          "email": "nikunj@truefoundry.com",
+          "status": "QUEUED",
+          "history": []
+        }
+      ]
+    },
+    {
+      "id": "startup_gluetrail",
+      "name": "Gluetrail",
+      "website": "https://gluetrail.io",
+      "fundingRound": "Seed",
+      "roundAmount": "$1.5M",
+      "fundedDate": "2026-06-10",
+      "fundedMonthsAgo": 4,
+      "employeeCount": 12,
+      "productDescription": "Event-driven workflow engine with zero-loss durability and Kafka connector mesh",
+      "source": "Inc42",
+      "timezone": "Asia/Kolkata",
+      "contacts": [
+        {
+          "id": "c_gluetrail_1",
+          "name": "Rohan Verma",
+          "role": "Founder",
+          "email": "rohan@gluetrail.io",
+          "status": "QUEUED",
+          "history": []
+        },
+        {
+          "id": "c_gluetrail_2",
+          "name": "Ananya Sen",
+          "role": "TechLead",
+          "email": "ananya@gluetrail.io",
+          "status": "QUEUED",
+          "history": []
+        }
+      ]
+    },
+    {
+      "id": "startup_helicone",
+      "name": "Helicone",
+      "website": "https://helicone.ai",
+      "fundingRound": "Seed",
+      "roundAmount": "$1.7M",
+      "fundedDate": "2026-04-28",
+      "fundedMonthsAgo": 6,
+      "employeeCount": 15,
+      "productDescription": "Smart caching proxy and analytics pipeline reducing inference latency and cost",
+      "source": "Wellfound",
+      "timezone": "America/Los_Angeles",
+      "contacts": [
+        {
+          "id": "c_helicone_1",
+          "name": "Justin Torre",
+          "role": "Founder",
+          "email": "justin@helicone.ai",
+          "status": "QUEUED",
+          "history": []
+        },
+        {
+          "id": "c_helicone_2",
+          "name": "Cole Gottdank",
+          "role": "TechLead",
+          "email": "cole@helicone.ai",
+          "status": "QUEUED",
+          "history": []
+        }
+      ]
+    },
+    {
+      "id": "startup_cognito_hq",
+      "name": "CognitoHQ",
+      "website": "https://cognitohq.dev",
+      "fundingRound": "Seed",
+      "roundAmount": "$2.0M",
+      "fundedDate": "2026-05-04",
+      "fundedMonthsAgo": 6,
+      "employeeCount": 17,
+      "productDescription": "Agentic security scanner that writes and tests pull requests fixing code CVEs",
+      "source": "Entrackr",
+      "timezone": "Asia/Kolkata",
+      "contacts": [
+        {
+          "id": "c_cognito_1",
+          "name": "Tanmay Saxena",
+          "role": "Founder",
+          "email": "tanmay@cognitohq.dev",
+          "status": "QUEUED",
+          "history": []
+        },
+        {
+          "id": "c_cognito_2",
+          "name": "Priyansh Sharma",
+          "role": "TechLead",
+          "email": "priyansh@cognitohq.dev",
+          "status": "QUEUED",
+          "history": []
+        }
+      ]
+    },
+    {
+      "id": "startup_omnisearch",
+      "name": "OmniSearch Engine",
+      "website": "https://omnisearch.ai",
+      "fundingRound": "Seed",
+      "roundAmount": "$1.6M",
+      "fundedDate": "2026-08-01",
+      "fundedMonthsAgo": 3,
+      "employeeCount": 14,
+      "productDescription": "Distributed embedding pipeline indexing audio, video, and PDF docs for low-latency search",
+      "source": "Inc42",
+      "timezone": "Asia/Kolkata",
+      "contacts": [
+        {
+          "id": "c_omnisearch_1",
+          "name": "Matej Zvan",
+          "role": "Founder",
+          "email": "matej@omnisearch.ai",
+          "status": "QUEUED",
+          "history": []
+        },
+        {
+          "id": "c_omnisearch_2",
+          "name": "Marin Vlastelica",
+          "role": "TechLead",
+          "email": "marin@omnisearch.ai",
+          "status": "QUEUED",
+          "history": []
+        }
+      ]
+    }
+  ]
+}

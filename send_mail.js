@@ -1,7 +1,9 @@
-const nodemailer = require("nodemailer");
-const { template_collections } = require("./templates");
-require("dotenv").config();
-const prompt = require("prompt-sync")({ sigint: true });
+import nodemailer from "nodemailer";
+import { template_collections } from "./templates.js";
+import dotenv from "dotenv";
+dotenv.config();
+import promptSync from "prompt-sync";
+const prompt = promptSync({ sigint: true });
 
 const transporter = nodemailer.createTransport({
   service: "gmail",
