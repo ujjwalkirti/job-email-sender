@@ -108,7 +108,8 @@ export function markContactReplied(store, contactEmail, notes = '') {
   const repliedAt = new Date().toISOString();
   const metadata = {
     repliedAt,
-    notes
+    notes,
+    stopped: true
   };
 
   if (typeof store?.updateContactStatus === 'function') {
@@ -125,6 +126,7 @@ export function markContactReplied(store, contactEmail, notes = '') {
   contact.status = 'REPLIED';
   contact.repliedAt = repliedAt;
   contact.notes = notes;
+  contact.stopped = true;
 
   if (!Array.isArray(contact.history)) {
     contact.history = [];
