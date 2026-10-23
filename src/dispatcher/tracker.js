@@ -8,6 +8,9 @@ import { getFollowup1DueDate, getFollowup2DueDate } from './scheduler.js';
  * @returns {{ contact: object, startup: object } | null}
  */
 function findContactInStore(store, email) {
+  if (store && !store.data && typeof store.loadCampaign === 'function') {
+    store.loadCampaign();
+  }
   const normEmail = email?.trim().toLowerCase();
   const startups = store?.startups || store?.data?.startups || [];
 
