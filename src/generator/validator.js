@@ -235,8 +235,8 @@ function extractFirstSentence(text) {
   const lines = trimmed.split(/\r?\n/).map(l => l.trim()).filter(Boolean);
   if (lines.length === 0) return '';
 
-  // Salutation pattern: "Hi Alex," or "Hey Sarah,"
-  const salutationRegex = /^(?:hi|hello|hey|dear)\s+[a-z]{1,20}(?:\s+[a-z]{1,20})?[,:]?$/i;
+  // Salutation pattern: "Hi Alex," or "Hey Sarah!" or "Dear Jean-Luc,"
+  const salutationRegex = /^(?:hi|hello|hey|dear)\s+[a-z\-'’]+(?:\s+[a-z\-'’]+)?[,!:]?$/i;
   let targetLine = lines[0];
   if (salutationRegex.test(targetLine) && lines.length > 1) {
     targetLine = lines[1];
