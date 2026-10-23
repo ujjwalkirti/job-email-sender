@@ -5,7 +5,12 @@
   "type": "module",
   "main": "src/index.js",
   "scripts": {
-    "test": "node --test \"tests/*.test.js\""
+    "test": "node --test \"tests/*.test.js\"",
+    "outreach:list": "node src/cli/index.js list",
+    "outreach:preview": "node src/cli/index.js preview",
+    "outreach:send": "node src/cli/index.js send",
+    "outreach:export-csv": "node src/cli/index.js export-csv",
+    "outreach:import-csv": "node src/cli/index.js import-csv"
   },
   "keywords": [
     "cold-outreach",
