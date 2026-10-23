@@ -4,6 +4,8 @@ A specialized, constraint-driven cold outreach system designed for engineering j
 
 The engine automates discovery filtering, dual-contact targeting (Founder + Tech Lead), strict constraint email generation, timezone-aware scheduling, a 3-touch follow-up cadence, and two-way CSV/Google Sheets synchronization.
 
+> 📖 **Full Process Playbook:** Read the comprehensive operational guide in [`docs/COLD_OUTREACH_PROCESS.md`](docs/COLD_OUTREACH_PROCESS.md).
+
 ---
 
 ## Key Features & Constraints
