@@ -1,5 +1,5 @@
-const readlineSync = require('readline-sync');
-const clipboardy = require('clipboardy');
+import readlineSync from 'readline-sync';
+import clipboardy from 'clipboardy';
 
 // Get recipient name
 console.log('Enter recipient\'s name: ');
@@ -25,7 +25,7 @@ const yourName = readlineSync.question('').trim();
 console.log('Enter your resume link (press Enter to use default): ');
 let resumeLink = readlineSync.question('').trim();
 if (resumeLink === '') {
-    resumeLink = 'https://drive.google.com/file/d/1LoF14oDU1YKTzCFeobmq8aEEpWR1YwaI/view?usp=sharing';
+    resumeLink = 'https://drive.google.com/file/d/1lWzX4sV6T_0RwcCGOaS20vddwvFnCvTM/view?usp=drive_link';
 }
 
 // Produce output text using template
@@ -35,7 +35,7 @@ Hi ${recipientName},
 
 I hope this message finds you well.
 
-I saw that you are a ${designation} at ${companyName} and wanted to reach out regarding the opening for Job ID: ${jobId}. Based on my two years of experience as a full-stack developer, I am confident my skills align well with the position and that I could be a valuable contributor at **${companyName}**.
+I saw that you are a ${designation} at ${companyName} and wanted to reach out regarding the opening for Job ID: ${jobId}. Based on my three years of experience as a full-stack developer, I am confident my skills align well with the position and that I could be a valuable contributor at ${companyName}.
 
 Would you be open to reviewing my resume and considering me for a referral?
 
