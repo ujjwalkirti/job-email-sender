@@ -1,5 +1,3 @@
-import { validateWordCount, validateSubject } from './validator.js';
-
 const DEFAULT_SENDER = {
   senderName: 'Ujjwal Kirti',
   portfolioUrl: 'https://ujjwal-portfolio-flame.vercel.app/',
